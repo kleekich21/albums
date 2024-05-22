@@ -1,5 +1,94 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "id": "4d33",
+      "name": "Francisco Koss"
+    },
+    {
+      "id": "cc76",
+      "name": "Dewey Ritchie"
+    },
+    {
+      "id": "50ed",
+      "name": "Ms. Donald Schmitt"
+    },
+    {
+      "id": "d376",
+      "name": "Shawna Zboncak V"
+    },
+    {
+      "id": "949c",
+      "name": "Jordan O'Connell"
+    },
+    {
+      "id": "9fd8",
+      "name": "Levi Abshire"
+    },
+    {
+      "id": "c589",
+      "name": "Alberta O'Hara"
+    },
+    {
+      "id": "8360",
+      "name": "Katie Fadel II"
+    },
+    {
+      "id": "9de4",
+      "name": "Clay Shanahan"
+    },
+    {
+      "id": "590a",
+      "name": "Darrell Konopelski"
+    },
+    {
+      "id": "fd27",
+      "name": "Byron Smitham"
+    },
+    {
+      "id": "647f",
+      "name": "Rochelle Reichert"
+    },
+    {
+      "id": "9832",
+      "name": "Miss Saul Bernier"
+    },
+    {
+      "id": "e0cd",
+      "name": "Beulah Lueilwitz Jr."
+    },
+    {
+      "id": "bb2a",
+      "name": "Laurence Konopelski"
+    },
+    {
+      "id": "9298",
+      "name": "Ed Rutherford"
+    },
+    {
+      "id": "a50a",
+      "name": "Carlos Ziemann"
+    },
+    {
+      "id": "f34e",
+      "name": "Theodore Kerluke"
+    },
+    {
+      "id": "2fd2",
+      "name": "Alfred Welch"
+    },
+    {
+      "id": "9886",
+      "name": "Cynthia Christiansen"
+    },
+    {
+      "id": "6be5",
+      "name": "Omar Jacobson"
+    }
+  ],
   "albums": [],
   "photos": []
 }
